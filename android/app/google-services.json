@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34598326335",
+    "project_id": "bloc-pho",
+    "storage_bucket": "bloc-pho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34598326335:android:4c4b46f0a17494c357a88a",
+        "android_client_info": {
+          "package_name": "com.example.testing_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB66gEfjALzRZnzP9qVUdS4O7aZ_MUBXDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
